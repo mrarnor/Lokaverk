@@ -1,0 +1,28 @@
+body {
+    background-image: url("mariob.png");
+    background-size: cover;
+    
+
+}
+
+h1{
+	font-size: 6em;
+	text-align: center;
+	font-family: 'Super Mario Bros.', serif;
+}
+
+div{
+	display: flex;
+	font-size: 2em;
+	color: white;
+	border-color: white;
+
+}
+
+
+section{
+	max-width: 60em;
+    margin: 0 auto;
+    background:rgba(255,255,255, 0.5);
+    border-radius: 15% 15% 0% 0%;
+}
